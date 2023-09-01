@@ -26,3 +26,6 @@ def mesajger():
             await message.channel.send('Şu an yetkim yok :)')
     
     client.run("MTE0NDY1ODg2MTI0MDg4OTQwNQ.G0xiCL.S6xDVXYN-T0Q0eFzSLQvCfUovfleSxa1YLe05E")
+
+
+mesajger()
